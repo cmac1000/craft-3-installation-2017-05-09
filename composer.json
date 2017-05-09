@@ -1,0 +1,14 @@
+{
+  "authors": [
+    {
+      "email": "cmacdonald@example.com",
+      "name": "Chris MacDonald"
+    }
+  ],
+  "description": "a craft 3 experiment",
+  "name": "cmacdonald/craft-3-experiment",
+  "require": {
+    "craftcms/cms": "3.0.0-beta.14"
+  },
+  "type": "project"
+}
